@@ -2,6 +2,8 @@
 
 A first-person explorer whose whole world is drawn as a mosaic of text characters, in the spirit of the Voxel Space / Comanche heightmap engines. One HTML file, no dependencies, no build step: open `index.html` in a browser and it runs.
 
+**Play it:** https://oddslice.github.io/text-voxel/ (add `?seed=42` for the world in the screenshots).
+
 ![The road down to a lake, with the trees reflected in the water](docs/screenshots/lake-reflections.png)
 
 ## What's in it
